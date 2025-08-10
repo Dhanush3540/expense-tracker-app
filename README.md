@@ -3,6 +3,15 @@
 A new Flutter project.
 
 ## Getting Started
+# Expense Tracker App
+
+A Flutter app to track expenses with beautiful UI.
+
+## Features
+- Add expenses
+- View expense history
+- Works offline
+
 
 This project is a starting point for a Flutter application.
 
