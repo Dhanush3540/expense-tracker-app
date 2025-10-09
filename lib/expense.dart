@@ -64,6 +64,7 @@ class _ExpensesState extends State<Expenses> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Welcome Azure - Expenses'),
+        backgroundColor: Colors.red,
         actions: [
           IconButton(onPressed: _addExpenseData, icon: Icon(Icons.add)),
         ],
